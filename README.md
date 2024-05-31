@@ -1,5 +1,5 @@
 # portfolio
-<br/> <br/> <br/>
+<br/>
 ## 1. CJ올리브네트웍스(데이터 해커톤) 프로젝트 <br/>
 [사회적기업 투자를 위한 의사결정 지원 모델](https://github.com/qkrwlgns99/portf/tree/main/%EC%82%AC%ED%9A%8C%EC%A0%81%EA%B8%B0%EC%97%85%20%ED%88%AC%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%20%EC%A7%80%EC%9B%90%20%EB%AA%A8%EB%8D%B8)
 1) 2023년 7월~8월
